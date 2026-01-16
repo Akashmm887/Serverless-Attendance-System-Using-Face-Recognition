@@ -120,12 +120,6 @@ The entire solution is built using a **serverless architecture**, ensuring scala
 
 ---
 
-## 👥 Team Members
-
-- **Suhail**
-- **Akash**
-- **Bhoomika**
-- **Anas**
 
 ---
 
